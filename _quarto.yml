@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "IGOR BIDS consultations hour"
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: Materials
+      - href: qna.qmd
+        text: Community questions
+      
+body-footer: |
+  ![BIDS logo](/pics/BIDS_Logo.png)
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true

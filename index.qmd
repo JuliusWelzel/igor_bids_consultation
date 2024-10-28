@@ -1,0 +1,33 @@
+---
+title: "IGOR BIDS consultations hour"
+---
+
+This page provides resources for the MOTION-BIDS project. Monthly meetings will answer questions about individual problems when converting datasets to the BIDS format.
+
+## BIDS specification
+The BIDS specification is available on the [MOTION-BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
+
+You can find all the information you need for modality specific and agnostic details.
+
+## Workshops and presentations 
+Here are some talks or posters about BIDS from the past :
+
+- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2406_ngmt_mobi.pdf)
+- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - Poster by Julius Welzel 
+  [Poster](slides/08_welzel.pdf)
+- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
+  [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
+
+
+Related talks about BIDS : 
+
+- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
+  [Slides](slides/2410_dgpa_welzel_jeung.pdf)
+
+## Tutorials & repositories
+You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
+
+- BIDS specification, a greate place to start - [Link](https://bids-specification.readthedocs.io/)
+- Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
+- Github repo with workshop material for Python - [Link](https://github.com/JuliusWelzel/bids_workshop)
