@@ -3,6 +3,7 @@ title: "IGOR BIDS consultations hour"
 ---
 
 This page provides resources for the MOTION-BIDS project. Monthly meetings will answer questions about individual problems when converting datasets to the BIDS format.
+The monthly sessions will be held on the last Friday of each month at 10:00 am. You will find Julius to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. Lennart will be present to answer questions about the MRI related questions. 
 
 ## BIDS specification
 The BIDS specification is available on the [BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
