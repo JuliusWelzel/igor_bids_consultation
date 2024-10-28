@@ -5,7 +5,7 @@ title: "IGOR BIDS consultations hour"
 This page provides resources for the MOTION-BIDS project. Monthly meetings will answer questions about individual problems when converting datasets to the BIDS format.
 
 ## BIDS specification
-The BIDS specification is available on the [MOTION-BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
+The BIDS specification is available on the [BIDS documentation website](https://bids-specification.readthedocs.io/en/stable/modality-specific-files/motion.html).
 
 You can find all the information you need for modality specific and agnostic details.
 
