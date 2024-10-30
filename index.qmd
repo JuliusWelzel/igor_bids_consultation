@@ -30,5 +30,6 @@ Related talks about BIDS :
 ## Tutorials & repositories
 You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
 
+- Scripts for converting different data types to BIDS using fieldtrip - [Link](https://www.fieldtriptoolbox.org/getting_started/bids/)
 - Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
 - Github repo with workshop material for Python - [Link](https://github.com/JuliusWelzel/bids_workshop)

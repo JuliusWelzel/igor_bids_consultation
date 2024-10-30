@@ -1,3 +1,19 @@
+---
+title: ""
+number-sections: False
+---
+
 # Questions from monthly consultation hours
 
-Work in progress
+## 1st IGOR BIDS consultation hour
+Friday, 21st of November the first official meeting will take place, find the link below (@sec-zoomlink). If you have questions please send to [Julius](mailto:j.welzel@neuologie.uni-kiel.de?subject=[IGOR%20BIDS]) until the night before.
+
+## Join the meeting {#sec-zoomlink}
+Julius Welzel invites you to a scheduled Zoom meeting.
+
+Topic: IGOR BIDS consultation
+Time: This is a recurring meeting, join anytime
+
+Join Zoom Meeting
+https://uni-kiel.zoom-x.de/j/65778224790
+
