@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "qna.html",
-    "href": "qna.html",
-    "title": "Questions from monthly consultation hours",
-    "section": "",
-    "text": "Questions from monthly consultation hours\nWork in progress"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "IGOR BIDS consultations hour",
@@ -33,5 +26,12 @@
     "title": "IGOR BIDS consultations hour",
     "section": "Tutorials & repositories",
     "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
+  },
+  {
+    "objectID": "qna.html",
+    "href": "qna.html",
+    "title": "Questions from monthly consultation hours",
+    "section": "",
+    "text": "Questions from monthly consultation hours\nWork in progress"
   }
 ]
