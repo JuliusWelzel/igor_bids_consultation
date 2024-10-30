@@ -4,28 +4,28 @@
     "href": "index.html",
     "title": "IGOR BIDS consultations hour",
     "section": "",
-    "text": "This page provides resources for the MOTION-BIDS project. Monthly meetings will answer questions about individual problems when converting datasets to the BIDS format. The monthly sessions will be held on the last Friday of each month at 10:00 am. You will find Julius to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. Lennart will be present to answer questions about the MRI related questions."
+    "text": "This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format. The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find Julius to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. Lennart will also be present from time to time to answer MRI related questions."
   },
   {
     "objectID": "index.html#bids-specification",
     "href": "index.html#bids-specification",
     "title": "IGOR BIDS consultations hour",
     "section": "BIDS specification",
-    "text": "BIDS specification\nThe BIDS specification is available on the BIDS documentation website.\nYou can find all the information you need for modality specific and agnostic details."
+    "text": "BIDS specification\nA good place to start always is the specification, available on the BIDS documentation website. You can find all the information you need for modality specific and agnostic details."
   },
   {
     "objectID": "index.html#workshops-and-presentations",
     "href": "index.html#workshops-and-presentations",
     "title": "IGOR BIDS consultations hour",
     "section": "Workshops and presentations",
-    "text": "Workshops and presentations\nHere are some talks or posters about BIDS from the past :\n\nMobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nPsychologie & Gehirn (IGOR Prize), Hamburg 2024 - Poster by Julius Welzel Poster\nOpen Science Series, Oldenburg 2024 - Workshop by Julius Welzel Slides\n\nRelated talks about BIDS :\n\nOpen Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel Slides"
+    "text": "Workshops and presentations\nIf you want to look for some material regardings BIDS, here are some talks or posters about BIDS from the past :\n\nMobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nPsychologie & Gehirn (IGOR Prize), Hamburg 2024 - Poster by Julius Welzel Poster\nOpen Science Series, Oldenburg 2024 - Workshop by Julius Welzel Slides\nIntroduction to fMRIPrep - Workshop by Lennart Wittkuhn Slides\n\nRelated talks about BIDS :\n\nOpen Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel Slides"
   },
   {
     "objectID": "index.html#tutorials-repositories",
     "href": "index.html#tutorials-repositories",
     "title": "IGOR BIDS consultations hour",
     "section": "Tutorials & repositories",
-    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nBIDS specification, a greate place to start - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
+    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
   },
   {
     "objectID": "qna.html",
