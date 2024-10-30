@@ -25,13 +25,27 @@
     "href": "index.html#tutorials-repositories",
     "title": "IGOR BIDS consultations hour",
     "section": "Tutorials & repositories",
-    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
+    "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nScripts for converting different data types to BIDS using fieldtrip - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
   },
   {
     "objectID": "qna.html",
     "href": "qna.html",
     "title": "Questions from monthly consultation hours",
     "section": "",
-    "text": "Questions from monthly consultation hours\nWork in progress"
+    "text": "Friday, 21st of November the first official meeting will take place, find the link below (Section 1.2). If you have questions please send to Julius until the night before.\n\n\n\nJulius Welzel invites you to a scheduled Zoom meeting.\nTopic: IGOR BIDS consultation Time: This is a recurring meeting, join anytime\nJoin Zoom Meeting https://uni-kiel.zoom-x.de/j/65778224790"
+  },
+  {
+    "objectID": "qna.html#st-igor-bids-consultation-hour",
+    "href": "qna.html#st-igor-bids-consultation-hour",
+    "title": "Questions from monthly consultation hours",
+    "section": "",
+    "text": "Friday, 21st of November the first official meeting will take place, find the link below (Section 1.2). If you have questions please send to Julius until the night before."
+  },
+  {
+    "objectID": "qna.html#sec-zoomlink",
+    "href": "qna.html#sec-zoomlink",
+    "title": "Questions from monthly consultation hours",
+    "section": "",
+    "text": "Julius Welzel invites you to a scheduled Zoom meeting.\nTopic: IGOR BIDS consultation Time: This is a recurring meeting, join anytime\nJoin Zoom Meeting https://uni-kiel.zoom-x.de/j/65778224790"
   }
 ]
