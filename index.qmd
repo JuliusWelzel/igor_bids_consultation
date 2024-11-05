@@ -1,9 +1,10 @@
 ---
-title: ""
+title: "IGOR BIDS consultations hour"
 number-sections: False
 ---
 
-# Monthly consultation hours
+This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format.
+The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find [Julius](https://juliuswelzel.github.io/welzel.github.io/) to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. [Lennart](https://lennartwittkuhn.com/) will also be present from time to time to answer MRI related questions. 
 
 ## 1st IGOR BIDS consultation hour
 Friday, 21st of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to [Julius](mailto:j.welzel@neuologie.uni-kiel.de?subject=[IGOR%20BIDS]) until the night before.

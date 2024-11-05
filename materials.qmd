@@ -1,9 +1,8 @@
 ---
-title: "IGOR BIDS consultations hour"
+title: "BIDS materials"
 ---
 
-This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format.
-The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find [Julius](https://juliuswelzel.github.io/welzel.github.io/) to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. [Lennart](https://lennartwittkuhn.com/) will also be present from time to time to answer MRI related questions. 
+This page provides some materials and resources for BIDS. If you have any questions or need help with BIDS, feel free to contact us.
 
 ## BIDS specification
 A good place to start always is the specification, available on the [BIDS documentation website](https://bids-specification.readthedocs.io).
