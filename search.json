@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "materials.html",
+    "href": "materials.html",
     "title": "IGOR BIDS consultations hour",
     "section": "",
     "text": "This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format. The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find Julius to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. Lennart will also be present from time to time to answer MRI related questions."
   },
   {
-    "objectID": "index.html#bids-specification",
-    "href": "index.html#bids-specification",
+    "objectID": "materials.html#bids-specification",
+    "href": "materials.html#bids-specification",
     "title": "IGOR BIDS consultations hour",
     "section": "BIDS specification",
     "text": "BIDS specification\nA good place to start always is the specification, available on the BIDS documentation website. You can find all the information you need for modality specific and agnostic details."
   },
   {
-    "objectID": "index.html#workshops-and-presentations",
-    "href": "index.html#workshops-and-presentations",
+    "objectID": "materials.html#workshops-and-presentations",
+    "href": "materials.html#workshops-and-presentations",
     "title": "IGOR BIDS consultations hour",
     "section": "Workshops and presentations",
     "text": "Workshops and presentations\nIf you want to look for some material regardings BIDS, here are some talks or posters about BIDS from the past :\n\nMobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel Slides\nPsychologie & Gehirn (IGOR Prize), Hamburg 2024 - Poster by Julius Welzel Poster\nOpen Science Series, Oldenburg 2024 - Workshop by Julius Welzel Slides\nIntroduction to fMRIPrep - Workshop by Lennart Wittkuhn Slides\n\nRelated talks about BIDS :\n\nOpen Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel Slides"
   },
   {
-    "objectID": "index.html#tutorials-repositories",
-    "href": "index.html#tutorials-repositories",
+    "objectID": "materials.html#tutorials-repositories",
+    "href": "materials.html#tutorials-repositories",
     "title": "IGOR BIDS consultations hour",
     "section": "Tutorials & repositories",
     "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nScripts for converting different data types to BIDS using fieldtrip - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
   },
   {
-    "objectID": "qna.html",
-    "href": "qna.html",
-    "title": "Questions from monthly consultation hours",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Monthly consultation hours",
     "section": "",
-    "text": "Friday, 21st of November the first official meeting will take place, find the link below (Section 1.2). If you have questions please send to Julius until the night before.\n\n\n\nJulius Welzel invites you to a scheduled Zoom meeting.\nTopic: IGOR BIDS consultation Time: This is a recurring meeting, join anytime\nJoin Zoom Meeting https://uni-kiel.zoom-x.de/j/65778224790"
+    "text": "Friday, 21st of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to Julius until the night before.\n\n\n\nJulius Welzel invites you to a scheduled Zoom meeting.\nTime: 12 pm. This is a recurring meeting, you can join anytime while it is running.\nJoin Zoom Meeting: https://uni-kiel.zoom-x.de/j/65778224790\nQuestions: tba"
   },
   {
-    "objectID": "qna.html#st-igor-bids-consultation-hour",
-    "href": "qna.html#st-igor-bids-consultation-hour",
-    "title": "Questions from monthly consultation hours",
+    "objectID": "index.html#st-igor-bids-consultation-hour",
+    "href": "index.html#st-igor-bids-consultation-hour",
+    "title": "Monthly consultation hours",
     "section": "",
-    "text": "Friday, 21st of November the first official meeting will take place, find the link below (Section 1.2). If you have questions please send to Julius until the night before."
+    "text": "Friday, 21st of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to Julius until the night before."
   },
   {
-    "objectID": "qna.html#sec-zoomlink",
-    "href": "qna.html#sec-zoomlink",
-    "title": "Questions from monthly consultation hours",
+    "objectID": "index.html#sec-zoomlink",
+    "href": "index.html#sec-zoomlink",
+    "title": "Monthly consultation hours",
     "section": "",
-    "text": "Julius Welzel invites you to a scheduled Zoom meeting.\nTopic: IGOR BIDS consultation Time: This is a recurring meeting, join anytime\nJoin Zoom Meeting https://uni-kiel.zoom-x.de/j/65778224790"
+    "text": "Julius Welzel invites you to a scheduled Zoom meeting.\nTime: 12 pm. This is a recurring meeting, you can join anytime while it is running.\nJoin Zoom Meeting: https://uni-kiel.zoom-x.de/j/65778224790\nQuestions: tba"
   }
 ]
