@@ -1,35 +1,19 @@
 ---
-title: "IGOR BIDS consultations hour"
+title: ""
+number-sections: False
 ---
 
-This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format.
-The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find [Julius](https://juliuswelzel.github.io/welzel.github.io/) to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. [Lennart](https://lennartwittkuhn.com/) will also be present from time to time to answer MRI related questions. 
+# Monthly consultation hours
 
-## BIDS specification
-A good place to start always is the specification, available on the [BIDS documentation website](https://bids-specification.readthedocs.io).
-You can find all the information you need for modality specific and agnostic details.
+## 1st IGOR BIDS consultation hour
+Friday, 21st of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to [Julius](mailto:j.welzel@neuologie.uni-kiel.de?subject=[IGOR%20BIDS]) until the night before.
 
-## Workshops and presentations 
-If you want to look for some material regardings BIDS, here are some talks or posters about BIDS from the past :
+## Join the meeting {#sec-zoomlink}
+Julius Welzel invites you to a scheduled Zoom meeting.
 
-- Mobile Brain Imaging Conference (MOBI), Piran, 2024 - Workshop by Sein Jeung & Julius Welzel
-  [Slides](slides/2406_ngmt_mobi.pdf)
-- Psychologie & Gehirn ([IGOR Prize](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/)), Hamburg 2024 - Poster by Julius Welzel 
-  [Poster](slides/08_welzel.pdf)
-- Open Science Series, Oldenburg 2024 - Workshop by Julius Welzel
-  [Slides](slides/2405_bidsIntro_oldenburg_welzel.pdf)
-- Introduction to fMRIPrep - Workshop by Lennart Wittkuhn
-  [Slides](https://lennartwittkuhn.com/talks/2019-07-12-talk-fmriprep-doeller.html)
+**Time**: 12 pm. This is a recurring meeting, you can join anytime while it is running.
 
+**Join Zoom Meeting:** [https://uni-kiel.zoom-x.de/j/65778224790](https://uni-kiel.zoom-x.de/j/65778224790)
 
-Related talks about BIDS : 
+**Questions:** tba
 
-- Open Science Series, DGPA, 2024 - Workshop by Sein Jeung & Julius Welzel
-  [Slides](slides/2410_dgpa_welzel_jeung.pdf)
-
-## Tutorials & repositories
-You can browse the tutorials to get started with MOTION-BIDS or BIDS in general:
-
-- Scripts for converting different data types to BIDS using fieldtrip - [Link](https://www.fieldtriptoolbox.org/getting_started/bids/)
-- Scripts for converting XDF data to BIDS  - [Link](https://github.com/sjeung/multimodal_XDF-to-BID)
-- Github repo with workshop material for Python - [Link](https://github.com/JuliusWelzel/bids_workshop)
