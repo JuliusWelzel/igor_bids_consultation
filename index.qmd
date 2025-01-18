@@ -3,18 +3,30 @@ title: "IGOR BIDS consultations hour"
 number-sections: False
 ---
 
-This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format.
-The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find [Julius](https://juliuswelzel.github.io/welzel.github.io/) to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. [Lennart](https://lennartwittkuhn.com/) will also be present from time to time to answer MRI related questions. 
+![](BIDS_Logo.png)
 
-## 1st IGOR BIDS consultation hour
-Friday, 22nd of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to [Julius](mailto:j.welzel@neuologie.uni-kiel.de?subject=[IGOR%20BIDS]) until the night before.
+## What is the IGOR BIDS Consultation Hour?
 
-## Join the meeting {#sec-zoomlink}
-Julius Welzel invites you to a scheduled Zoom meeting.
+We're are happy to offer the IGOR BIDS Consultation Hour, a monthly forum designed to help researchers like you navigate the Brain Imaging Data Structure (BIDS) format. During these sessions, you can connect with experienced BIDS users to get individualized feedback and solutions for your specific BIDS data conversion challenges.
 
-**Time**: 12 pm. This is a recurring meeting, you can join anytime while it is running.
+## What can I expect?
 
-**Join Zoom Meeting:** [https://uni-kiel.zoom-x.de/j/65778224790](https://uni-kiel.zoom-x.de/j/65778224790)
+- **Personalized guidance**: Our experienced researchers, Julius (EEG & motion data expertise) and Lennart (MRI expertise), will be available to answer your questions and provide tailored advice on converting your datasets to the BIDS format.
 
-**Questions:** tba
+- **Open forum**: Feel free to bring any BIDS-related questions you have, big or small. We're here to help you overcome conversion hurdles and ensure your data adheres to BIDS best practices.
 
+- **Recurring sessions**: The IGOR BIDS Consultation Hour takes place on the 4th Friday of each month at 12:00 PM (noon) CET.
+
+## How can I participate?
+
+- **Join the Zoom meeting**: Click the link below to join the meeting directly. <br>
+[https://uni-kiel.zoom-x.de/j/65778224790](https://uni-kiel.zoom-x.de/j/65778224790)
+
+- **Prepare your questions**: While questions can be submitted during the session, feel free to send them in advance to [Julius](mailto:j.welzel@neuologie.uni-kiel.de?subject=[IGOR%20BIDS]) before the consultation hour for a more focused discussion.
+
+Don't miss out on this valuable opportunity to get personalized help with your BIDS data conversion!
+
+## Upcoming Session:
+Friday, January 24th; 12:00 PM (noon) CET
+
+### We look forward to seeing you there!
