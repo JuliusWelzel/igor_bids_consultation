@@ -28,24 +28,31 @@
     "text": "Tutorials & repositories\nYou can browse the tutorials to get started with MOTION-BIDS or BIDS in general:\n\nScripts for converting different data types to BIDS using fieldtrip - Link\nScripts for converting XDF data to BIDS - Link\nGithub repo with workshop material for Python - Link"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#what-is-the-igor-bids-consultation-hour",
+    "href": "index.html#what-is-the-igor-bids-consultation-hour",
     "title": "IGOR BIDS consultations hour",
-    "section": "",
-    "text": "This page provides information regarding the IGOR BIDS consultation hour. In monthly meetings we will answer questions about individual problems when converting datasets to the BIDS format. The consultation hour will be held on the 4th Friday of each month at 12:00 am. You will find Julius to be present to answer your questions about BIDS. His background is in EEG and motion data, but he is happy to help with any other modality. Lennart will also be present from time to time to answer MRI related questions."
+    "section": "What is the IGOR BIDS Consultation Hour?",
+    "text": "What is the IGOR BIDS Consultation Hour?\nWe’re are happy to offer the IGOR BIDS Consultation Hour, a monthly forum designed to help researchers like you navigate the Brain Imaging Data Structure (BIDS) format. During these sessions, you can connect with experienced BIDS users to get individualized feedback and solutions for your specific BIDS data conversion challenges."
   },
   {
-    "objectID": "index.html#st-igor-bids-consultation-hour",
-    "href": "index.html#st-igor-bids-consultation-hour",
+    "objectID": "index.html#what-can-i-expect",
+    "href": "index.html#what-can-i-expect",
     "title": "IGOR BIDS consultations hour",
-    "section": "1st IGOR BIDS consultation hour",
-    "text": "1st IGOR BIDS consultation hour\nFriday, 22nd of November at 12 pm the first official meeting will take place, find the link below. If you have questions please send an email to Julius until the night before."
+    "section": "What can I expect?",
+    "text": "What can I expect?\n\nPersonalized guidance: Our experienced researchers, Julius (EEG & motion data expertise) and Lennart (MRI expertise), will be available to answer your questions and provide tailored advice on converting your datasets to the BIDS format.\nOpen forum: Feel free to bring any BIDS-related questions you have, big or small. We’re here to help you overcome conversion hurdles and ensure your data adheres to BIDS best practices.\nRecurring sessions: The IGOR BIDS Consultation Hour takes place on the 4th Friday of each month at 12:00 PM (noon) CET."
   },
   {
-    "objectID": "index.html#sec-zoomlink",
-    "href": "index.html#sec-zoomlink",
+    "objectID": "index.html#how-can-i-participate",
+    "href": "index.html#how-can-i-participate",
     "title": "IGOR BIDS consultations hour",
-    "section": "Join the meeting",
-    "text": "Join the meeting\nJulius Welzel invites you to a scheduled Zoom meeting.\nTime: 12 pm. This is a recurring meeting, you can join anytime while it is running.\nJoin Zoom Meeting: https://uni-kiel.zoom-x.de/j/65778224790\nQuestions: tba"
+    "section": "How can I participate?",
+    "text": "How can I participate?\n\nJoin the Zoom meeting: Click the link below to join the meeting directly.  https://uni-kiel.zoom-x.de/j/65778224790\nPrepare your questions: While questions can be submitted during the session, feel free to send them in advance to Julius before the consultation hour for a more focused discussion.\n\nDon’t miss out on this valuable opportunity to get personalized help with your BIDS data conversion!"
+  },
+  {
+    "objectID": "index.html#upcoming-session",
+    "href": "index.html#upcoming-session",
+    "title": "IGOR BIDS consultations hour",
+    "section": "Upcoming Session:",
+    "text": "Upcoming Session:\nFriday, January 24th; 12:00 PM (noon) CET\n\nWe look forward to seeing you there!"
   }
 ]
