@@ -24,4 +24,12 @@ footer.custom-logo img {
 
 .navbar {
     background-color: #08A2A5; /* set the main color */
-  }
+}
+
+.sub-heading h1 {
+    text-align: center;
+}
+
+.center-text {
+    text-align: center !important;
+}

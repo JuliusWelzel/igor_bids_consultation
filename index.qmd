@@ -3,7 +3,10 @@ title: "IGOR BIDS consultations hour"
 number-sections: False
 ---
 
-![](BIDS_Logo.png)
+## It's a match! {.center-text}
+![](joint_logos.png) 
+
+
 
 ## What is the IGOR BIDS Consultation Hour?
 
@@ -11,7 +14,7 @@ We're are happy to offer the IGOR BIDS Consultation Hour, a monthly forum design
 
 ## What can I expect?
 
-- **Personalized guidance**: Our experienced researchers, Julius (EEG & motion data expertise) and Lennart (MRI expertise), will be available to answer your questions and provide tailored advice on converting your datasets to the BIDS format.
+- **Personalized guidance**: Our experienced researchers, [Julius](https://juliuswelzel.github.io/welzel.github.io/) (EEG & motion data expertise) and [Lennart](https://lennartwittkuhn.com/) (MRI expertise), will be available to answer your questions and provide tailored advice on converting your datasets to the BIDS format.
 
 - **Open forum**: Feel free to bring any BIDS-related questions you have, big or small. We're here to help you overcome conversion hurdles and ensure your data adheres to BIDS best practices.
 
@@ -27,6 +30,16 @@ We're are happy to offer the IGOR BIDS Consultation Hour, a monthly forum design
 Don't miss out on this valuable opportunity to get personalized help with your BIDS data conversion!
 
 ## Upcoming Session:
-Friday, January 24th; 12:00 PM (noon) CET
+- Friday, February 28th; 12:00 PM (noon) CET
+- Friday, March 28th; 12:00 PM (noon) CET
+- Friday, April 25th; 12:00 PM (noon) CET
+- Friday, May 23rd; 12:00 PM (noon) CET
+- Friday, June 27th; 12:00 PM (noon) CET
+- Friday, July 25th; 12:00 PM (noon) CET
+- Friday, August 22nd; 12:00 PM (noon) CET
+- Friday, September 26th; 12:00 PM (noon) CET
+- Friday, October 24th; 12:00 PM (noon) CET
+- Friday, November 28th; 12:00 PM (noon) CET
+- Friday, December 26th; 12:00 PM (noon) CET
 
-### We look forward to seeing you there!
+### We look forward to see you!
